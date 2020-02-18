@@ -1,6 +1,6 @@
-# UNED - Ingeniería Informática - Programación y Estructuras Avanzadas
+# UNED - Diseño y Administración de Sistemas Operativos
 
-## PED 1 - Problema de la mochila con objetos no fraccionables
+## PED 1 - Métodos de intercomunicación de procesos. La batalla de los procesos
 
 ### Introducción
 Los procesos deben comunicarse e interactuar entre ellos compartiendo datos y recur-sos. Para ello UNIX pone mecanismos IPCs universales (señales y tuberías). Asimismo, System V ofrece mecanismos de cola de mensajes, memoria compartida y semáforos pa-ra realizar la intercomunicación entre procesos.
